@@ -161,7 +161,7 @@ Colonoscopy_Prediction_ai/
 ├── model/
 │    ├──metrics.py
 │    ├──preprocessing.py
-│    ├──L2_softmax_regression_model.py  # Core Softmax + L2 class implementation
+│    └──L2_softmax_regression_model.py  # Core Softmax + L2 class implementation
 │ 
 ├── choose_lambda.py                    # K-Fold CV logic for tuning lambda
 ├── train_test.py                       # Model training workflow and test dataset evaluation script
