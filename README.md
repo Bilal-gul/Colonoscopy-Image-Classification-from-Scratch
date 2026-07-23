@@ -147,6 +147,8 @@ The dataset consists of **698 numerical features** extracted from colonoscopy im
 > **Note:** Combined, these feature groups provide a comprehensive multi-modal representation covering texture, color semantics, and three-dimensional geometrical properties of the tissue samples.
 
 ## 🏗️ Project Structure
+
+```text
 Colonoscopy_Prediction_ai/
 │
 ├── data/
@@ -165,6 +167,7 @@ Colonoscopy_Prediction_ai/
 ├── train_test.py                       # Model training workflow and test dataset evaluation script
 │
 └── README.md                           # Project documentation
+```
 
 ## 🛠️ Technologies & Tools Used
 
